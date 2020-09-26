@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{63:function(n,e,t){"use strict";t.r(e);var o=t(0),i=t.n(o),r=(t(159),t(160));e.default=function(){return i.a.createElement(r.Redirect,{to:"/extensions/intro"})}}}]);
