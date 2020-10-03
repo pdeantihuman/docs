@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{106:function(t,e,n){"use strict";n.r(e);var i=n(0),o=n.n(i),r=(n(159),n(160));e.default=function(){return o.a.createElement(r.Redirect,{to:"/self-hosting/getting-started"})}}}]);
