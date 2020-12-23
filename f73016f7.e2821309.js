@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{141:function(e,n,t){"use strict";t.r(n);var i=t(0),c=t.n(i),o=(t(152),t(149));n.default=function(){return c.a.createElement(o.Redirect,{to:"/listed/publishing"})}}}]);
