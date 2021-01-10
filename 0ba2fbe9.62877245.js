@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{72:function(t,e,n){"use strict";n.r(e);var o=n(0),s=n.n(o),c=(n(158),n(156));e.default=function(){return s.a.createElement(c.Redirect,{to:"/listed/options/#custom-dates"})}}}]);
